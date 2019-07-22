@@ -5,7 +5,7 @@ This is the personal Maven repository for [@Rayzr522](https://github.com/Rayzr52
 ```xml
 <repository>
     <id>rayzr-repo</id>
-    <url>https://cdn.rawgit.com/Rayzr522/maven-repo/master/</url>
+    <url>https://rayzr.dev/repo/</url>
 </repository>
 ```
 
@@ -15,7 +15,7 @@ That's it! Now, for example, if you wanted to add [JSONMessage](https://github.c
 <dependency>
     <groupId>me.rayzr522</groupId>
     <artifactId>jsonmessage</artifactId>
-    <version>1.0.0</version>
+    <version>1.2.0</version>
 </dependency>
 ```
 
