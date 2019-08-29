@@ -19,6 +19,10 @@ That's it! Now, for example, if you wanted to add [JSONMessage](https://github.c
 </dependency>
 ```
 
+## Disclaimer
+
+I have various dependencies in here which are NOT MY OWN. I take no credit for them. I simply have them here because I needed to reference them in my own projects and I could not find a proper Maven repository for them. If anyone has an issue with a dependency I have in this repo, please open an issue to let me know and I will take appropriate action.
+
 ## Support
 
 For any problems or questions, please [join Rayzr's Discord server](https://discord.io/rayzrdevofficial)! We're more than happy to help.
