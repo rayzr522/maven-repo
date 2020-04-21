@@ -3,11 +3,12 @@
   <groupId>me.ialistannen</groupId>
   <artifactId>MiniNBT</artifactId>
   <versioning>
-    <release>1.0.2</release>
+    <release>1.0.2-cache-patch</release>
     <versions>
       <version>1.0-SNAPSHOT</version>
       <version>1.0.2</version>
+      <version>1.0.2-cache-patch</version>
     </versions>
-    <lastUpdated>20191019025138</lastUpdated>
+    <lastUpdated>20200421024214</lastUpdated>
   </versioning>
 </metadata>
